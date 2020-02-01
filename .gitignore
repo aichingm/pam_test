@@ -1,0 +1,5 @@
+*.so
+*.o
+auth
+*.233r.expand
+graph.pdf
